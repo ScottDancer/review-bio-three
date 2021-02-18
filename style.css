@@ -5,30 +5,30 @@ body {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 18px;
   line-height: 150%;
-  color: #013f40;
+  color: #09aae8;
   background-color: aqua;
 }
 
 header {
-  background-color: #02bcbf;
+  background-color: #09aae8;
 }
 
 h1 {
-  padding: 20px 0;
+  padding: 25px;
   margin: 0;
   margin-bottom: 20px;
   text-align: center;
-  color: #013f40;
+  color: #09e8ad;
   font-size: 38px;
 }
 
 h2{
   font-size: 30px;
-  color: #017d80;
+  color: #0a7aff;
 }
 
 a {
-  color: #017d80;
+  color: #0a7aff;
 }
 
 .container {
